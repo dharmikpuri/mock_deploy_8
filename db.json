@@ -1,11 +1,135 @@
 {
-  "users": [
-    {
-      "userName": "Dharmik",
-      "email": "dharmikpuri2004@gmail.com",
-      "password": "12345",
-      "id": 1
-    }
-  ],
-  "products": []
+    "users": [
+        {
+            "id":1,
+            "avatar": "https://i.pinimg.com/474x/9d/02/29/9d02299880dd047e76ceb522e3905983.jpg",
+            "UserName": "John Smith",
+            "ouestion_title": "What is JavaScript",
+            "language": "JavaScript",
+            "upVotes": 12,
+            "answers": "10 Answers",
+            "date": "03-05-2015"
+        },
+        {
+            "id":2,
+
+            "avatar": "https://i.pinimg.com/474x/9d/02/29/9d02299880dd047e76ceb522e3905983.jpg",
+            "UserName": "John Smith",
+            "ouestion_title": "What is JavaScript",
+            "language": "JavaScript",
+            "upVotes": 12,
+            "answers": "10 Answers",
+            "date": "03-05-2015"
+        },
+        {
+            "id":3,
+
+            "avatar": "https://i.pinimg.com/474x/9d/02/29/9d02299880dd047e76ceb522e3905983.jpg",
+            "UserName": "John Smith",
+            "ouestion_title": "What is JavaScript",
+            "language": "JavaScript",
+            "upVotes": 12,
+            "answers": "10 Answers",
+            "date": "03-05-2015"
+        },
+        {
+            "id":4,
+
+            "avatar": "https://i.pinimg.com/474x/9d/02/29/9d02299880dd047e76ceb522e3905983.jpg",
+            "UserName": "John Smith",
+            "ouestion_title": "What is JavaScript",
+            "language": "JavaScript",
+            "upVotes": 12,
+            "answers": "10 Answers",
+            "date": "03-05-2015"
+        },
+        {
+            "id":5,
+
+            "avatar": "https://i.pinimg.com/474x/9d/02/29/9d02299880dd047e76ceb522e3905983.jpg",
+            "UserName": "John Smith",
+            "ouestion_title": "What is JavaScript",
+            "language": "JavaScript",
+            "upVotes": 12,
+            "answers": "10 Answers",
+            "date": "03-05-2015"
+        },
+        {
+            "id":6,
+
+            "avatar": "https://i.pinimg.com/474x/9d/02/29/9d02299880dd047e76ceb522e3905983.jpg",
+            "UserName": "John Smith",
+            "ouestion_title": "What is JavaScript",
+            "language": "JavaScript",
+            "upVotes": 12,
+            "answers": "10 Answers",
+            "date": "03-05-2015"
+        },
+        {
+            "id":7,
+
+            "avatar": "https://i.pinimg.com/474x/9d/02/29/9d02299880dd047e76ceb522e3905983.jpg",
+            "UserName": "John Smith",
+            "ouestion_title": "What is JavaScript",
+            "language": "JavaScript",
+            "upVotes": 12,
+            "answers": "10 Answers",
+            "date": "03-05-2015"
+        },
+        {
+            "id":8,
+
+            "avatar": "https://i.pinimg.com/474x/9d/02/29/9d02299880dd047e76ceb522e3905983.jpg",
+            "UserName": "John Smith",
+            "ouestion_title": "What is JavaScript",
+            "language": "JavaScript",
+            "upVotes": 12,
+            "answers": "10 Answers",
+            "date": "03-05-2015"
+        },
+        {
+            "id":9,
+
+            "avatar": "https://i.pinimg.com/474x/9d/02/29/9d02299880dd047e76ceb522e3905983.jpg",
+            "UserName": "John Smith",
+            "ouestion_title": "What is JavaScript",
+            "language": "JavaScript",
+            "upVotes": 12,
+            "answers": "10 Answers",
+            "date": "03-05-2015"
+        },
+        {
+            "id":10,
+
+            "avatar": "https://i.pinimg.com/474x/9d/02/29/9d02299880dd047e76ceb522e3905983.jpg",
+            "UserName": "John Smith",
+            "ouestion_title": "What is JavaScript",
+            "language": "JavaScript",
+            "upVotes": 12,
+            "answers": "10 Answers",
+            "date": "03-05-2015"
+        },
+        {
+            "id":11,
+
+            "avatar": "https://i.pinimg.com/474x/9d/02/29/9d02299880dd047e76ceb522e3905983.jpg",
+            "UserName": "John Smith",
+            "ouestion_title": "What is JavaScript",
+            "language": "JavaScript",
+            "upVotes": 12,
+            "answers": "10 Answers",
+            "date": "03-05-2015"
+        },
+        {
+            "id":12,
+
+            "avatar": "https://i.pinimg.com/474x/9d/02/29/9d02299880dd047e76ceb522e3905983.jpg",
+            "UserName": "John Smith",
+            "ouestion_title": "What is JavaScript",
+            "language": "JavaScript",
+            "upVotes": 12,
+            "answers": "10 Answers",
+            "date": "03-05-2015"
+        }
+    ]
 }
